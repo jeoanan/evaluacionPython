@@ -1,5 +1,6 @@
 listaProductos=[]
 print("********************************************")
+print("********************************************")
 print("Bienvenido a superMercados la gente de Bien!")
 print("********************************************")
 print("Ingresa un valor de nuestro menu para continuar")
