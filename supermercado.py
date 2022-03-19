@@ -48,6 +48,7 @@ while(True):
                             break
                         else:
                             print("El producto no existe")
+                            break
                 input("Presione enter para continuar...")
             else:
                 buscarProducto=input("Ingrese el codigo a buscar: ")
@@ -58,6 +59,7 @@ while(True):
                             break
                         else:
                             print("El producto no existe")
+                            break
                 input("Presione enter para continuar...")
 
             print("Ingresa 1 para agregar un nuevo producto:")
